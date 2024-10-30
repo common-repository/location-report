@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Location Reports</name>
+	<description><![CDATA[
+Created by Location Report Wordpress Plugin.
+]]></description>
+<Style id="locationreportLatestStyle">
+<!-- Insert your IconStyle for the current location -->
+ <IconStyle>
+  <Icon>
+   <href>/wp-content/uploads/locationreport/lilly32.png</href>
+  </Icon>
+  <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>
+ </IconStyle>
+</Style>
+<Style id="locationreportRouteStyle">
+<!-- Insert your LineStyle for the Route and your IconStyle for the previous locations -->
+ <IconStyle>
+  <Icon>
+   <href>/wp-content/uploads/locationreport/mm_20_purple.png</href>
+  </Icon>
+  <hotSpot x="0.5"  y="0" xunits="fraction" yunits="fraction"/>
+ </IconStyle>
+ <LineStyle>
+   <color>99220099</color>
+   <width>2</width>
+ </LineStyle>
+</Style>
+</Document>
+</kml>

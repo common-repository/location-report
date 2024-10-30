@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Location Reports</name>
+	<description><![CDATA[
+Created by the Location Report Wordpress Plugin.
+]]></description>
+<Style id="locationreportLatestStyle">
+<!-- Insert your IconStyle for the current location -->
+</Style>
+<Style id="locationreportRouteStyle">
+<!-- Insert your LineStyle for the Route and your IconStyle for the previous locations -->
+</Style>
+</Document>
+</kml>

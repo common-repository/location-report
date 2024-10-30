@@ -1,0 +1,105 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: locationreport v1.1\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2020-02-22 15:20-0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Christian Feldbauer <christian@pitufa.at>\n"
+"Language-Team: los pitufos <christian@pitufa.at>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: locationreport-options.php:17 locationreport-options.php:28
+msgid "Archive old route and start new one."
+msgstr ""
+
+#: locationreport-options.php:20
+msgid "Filename for archived version of route.kml: "
+msgstr ""
+
+#: locationreport-options.php:24
+msgid "Start with last location."
+msgstr ""
+
+#: locationreport-options.php:25
+msgid "Start with empty route."
+msgstr ""
+
+#: locationreport.oldhook.php:86 locationreport.oldhook.php:122
+#: locationreport.php:89 locationreport.php:132
+#: locationreport_removeshortcode.php:99
+msgid "Position reported on"
+msgstr ""
+
+#: locationreport.oldhook.php:87 locationreport.oldhook.php:123
+#: locationreport.php:90 locationreport.php:133
+#: locationreport_removeshortcode.php:100
+msgid "at"
+msgstr ""
+
+#: locationreport.oldhook.php:345 locationreport.php:543
+#: locationreport_removeshortcode.php:304
+msgid "LocationReport Manager"
+msgstr ""
+
+#: locationreport.oldhook.php:345 locationreport.php:543
+#: locationreport_removeshortcode.php:304
+msgid "LocationReport"
+msgstr ""
+
+#: locationreport.oldhook.php:361 locationreport.php:504
+#: locationreport_removeshortcode.php:320
+msgid "Error copying route.kml..."
+msgstr ""
+
+#: locationreport.oldhook.php:364 locationreport.php:507
+#: locationreport_removeshortcode.php:323
+msgid "File route.kml archived as "
+msgstr ""
+
+#: locationreport.oldhook.php:372 locationreport.php:517
+#: locationreport_removeshortcode.php:331
+msgid "Error overwriting route.kml with style.kml..."
+msgstr ""
+
+#: locationreport.oldhook.php:374 locationreport.php:519
+#: locationreport_removeshortcode.php:333
+msgid "Error overwriting latest.kml with style.kml..."
+msgstr ""
+
+#: locationreport.oldhook.php:376 locationreport.php:521
+#: locationreport_removeshortcode.php:335
+msgid "Started new empty route."
+msgstr ""
+
+#: locationreport.oldhook.php:380 locationreport.php:525
+#: locationreport_removeshortcode.php:339
+msgid "Error overwriting route.kml with latest.kml..."
+msgstr ""
+
+#: locationreport.oldhook.php:382 locationreport.php:528
+#: locationreport_removeshortcode.php:341
+msgid "Started new route with latest location."
+msgstr ""
+
+#: locationreport.php:100
+msgid ""
+"Note, lat and lon attributes are needed in the locationreport "
+"shortcode."
+msgstr ""
